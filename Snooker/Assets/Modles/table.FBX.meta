@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 80cf365faf0ae734f895f512ae4b3712
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: black
+    100002: black01
+    100004: blue
+    100006: brown
+    100008: Cue
+    100010: cue-ball
+    100012: GREEN
+    100014: keu L
+    100016: keu XL
+    100018: pink
+    100020: red
+    100022: red01
+    100024: red02
+    100026: red03
+    100028: red04
+    100030: red05
+    100032: red06
+    100034: red07
+    100036: red08
+    100038: red09
+    100040: red10
+    100042: red11
+    100044: red12
+    100046: red13
+    100048: red14
+    100050: red15
+    100052: red16
+    100054: rest X
+    100056: rest X01
+    100058: spider L
+    100060: spider XL
+    100062: Table
+    100064: //RootNode
+    100066: triangle
+    100068: yellow
+    400000: black
+    400002: black01
+    400004: blue
+    400006: brown
+    400008: Cue
+    400010: cue-ball
+    400012: GREEN
+    400014: keu L
+    400016: keu XL
+    400018: pink
+    400020: red
+    400022: red01
+    400024: red02
+    400026: red03
+    400028: red04
+    400030: red05
+    400032: red06
+    400034: red07
+    400036: red08
+    400038: red09
+    400040: red10
+    400042: red11
+    400044: red12
+    400046: red13
+    400048: red14
+    400050: red15
+    400052: red16
+    400054: rest X
+    400056: rest X01
+    400058: spider L
+    400060: spider XL
+    400062: Table
+    400064: //RootNode
+    400066: triangle
+    400068: yellow
+    2100000: sm
+    2100002: "\u9999\u69DF\u91D1"
+    2100004: 11aa
+    2100006: "a\u6F06"
+    2100008: 11
+    2100010: "aa\u6F06"
+    2100012: "\u8F66\u6F06aa"
+    2100014: "\u9ED1\u6F06\uFF0Cjia"
+    2100016: "\u8F66\u6F06"
+    2100018: "\u767D\u6F06\uFF0Cjia"
+    2100020: "\u5E03\u6599"
+    2100022: BROWN MATTE
+    2300000: black
+    2300002: black01
+    2300004: blue
+    2300006: brown
+    2300008: Cue
+    2300010: cue-ball
+    2300012: GREEN
+    2300014: keu L
+    2300016: keu XL
+    2300018: pink
+    2300020: red
+    2300022: red01
+    2300024: red02
+    2300026: red03
+    2300028: red04
+    2300030: red05
+    2300032: red06
+    2300034: red07
+    2300036: red08
+    2300038: red09
+    2300040: red10
+    2300042: red11
+    2300044: red12
+    2300046: red13
+    2300048: red14
+    2300050: red15
+    2300052: red16
+    2300054: rest X
+    2300056: rest X01
+    2300058: spider L
+    2300060: spider XL
+    2300062: Table
+    2300064: triangle
+    2300066: yellow
+    3300000: black
+    3300002: black01
+    3300004: blue
+    3300006: brown
+    3300008: Cue
+    3300010: cue-ball
+    3300012: GREEN
+    3300014: keu L
+    3300016: keu XL
+    3300018: pink
+    3300020: red
+    3300022: red01
+    3300024: red02
+    3300026: red03
+    3300028: red04
+    3300030: red05
+    3300032: red06
+    3300034: red07
+    3300036: red08
+    3300038: red09
+    3300040: red10
+    3300042: red11
+    3300044: red12
+    3300046: red13
+    3300048: red14
+    3300050: red15
+    3300052: red16
+    3300054: rest X
+    3300056: rest X01
+    3300058: spider L
+    3300060: spider XL
+    3300062: Table
+    3300064: triangle
+    3300066: yellow
+    4300000: rest X
+    4300002: rest X01
+    4300004: spider L
+    4300006: spider XL
+    4300008: keu L
+    4300010: keu XL
+    4300012: yellow
+    4300014: GREEN
+    4300016: brown
+    4300018: blue
+    4300020: pink
+    4300022: black
+    4300024: red
+    4300026: red01
+    4300028: red02
+    4300030: red03
+    4300032: red04
+    4300034: red05
+    4300036: red06
+    4300038: red07
+    4300040: red08
+    4300042: red09
+    4300044: red10
+    4300046: red11
+    4300048: red12
+    4300050: red13
+    4300052: red14
+    4300054: cue-ball
+    4300056: triangle
+    4300058: black01
+    4300060: red15
+    4300062: red16
+    4300064: Table
+    4300066: Cue
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
