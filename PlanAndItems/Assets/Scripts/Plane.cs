@@ -76,6 +76,14 @@ public class Plane : MonoBehaviour {
         {
             score += 1;
         }
+        if (other.CompareTag("Prop"))
+        {
+
+        }
+        if(other.CompareTag("Collection"))
+        {
+
+        }
     }
 
     private void OnTriggerExit(Collider other)

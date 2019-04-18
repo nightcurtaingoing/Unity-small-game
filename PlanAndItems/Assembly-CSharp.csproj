@@ -65,6 +65,8 @@
     <Compile Include="Assets\Scripts\Launcher.cs" />
     <Compile Include="Assets\Scripts\Plane.cs" />
     <Compile Include="Assets\Scripts\PlayAgain.cs" />
+    <None Include="Assets\Shaders\emission.shader" />
+    <None Include="Assets\Shaders\NewUnlitShader.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>H:/Unity/PlanAndItems/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

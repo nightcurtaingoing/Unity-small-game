@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Item
   - ItemPar
+  - Prop
+  - Collection
   layers:
   - Default
   - TransparentFX
